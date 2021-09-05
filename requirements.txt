@@ -1,0 +1,7 @@
+Flask
+imutils==0.5.3
+Keras
+opencv-python
+Pillow
+tensorflow
+scikit-image
